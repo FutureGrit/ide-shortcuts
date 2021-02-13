@@ -10,6 +10,13 @@ Since I'm using a Windows, I have mainly listed the keyboard shortcuts Windows. 
 | ------- | -------- | ------- |
 | Select Widget | Ctrl + W | Select entire widget with it's child widgets |
 | Widget Properties | Ctrl + Shift + I | View widgets properties without leaving the file |
-| Quick Docs | Ctrl + Q | View quick documentation |
-| Code Structure | Ctrl + Alt + L | Fix the code structure |
+| Quick Docs | Ctrl + Q | View quick documentation of the widget|
+| Quick Widget Menu | Alt + Enter | Show quick wrap widget menu |
 | Rename | Shift + F6 | Refactor the name of class or file |
+| Code Structure | Ctrl + Alt + L | Fix the code structure |
+| Duplicate Row | Ctrl + D | Duplicate the current row to new row below |
+| Delete Row | Shift + Delete | Delete entire row |
+| Add Row Above | Ctrl + Enter | Add and move to new row or line above the current line |
+| Add Row Below | Shift + Enter | Add and move to new row or line below the current line |
+
+
