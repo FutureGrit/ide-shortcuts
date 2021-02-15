@@ -18,5 +18,4 @@ Since I'm using a Windows, I have mainly listed the keyboard shortcuts Windows. 
 | Delete Row | Shift + Delete | Delete entire row |
 | Add Row Above | Ctrl + Enter | Add and move to new row or line above the current line |
 | Add Row Below | Shift + Enter | Add and move to new row or line below the current line |
-
-
+| Comment Row | Shift + Delete | Comment the entire row |
